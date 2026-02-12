@@ -1,6 +1,6 @@
 # myapp
 <img width="283" height="463" alt="image" src="https://github.com/user-attachments/assets/38add653-1ef3-4644-9d05-aaf28aa76ce8" />
-<img width="1064" height="488" alt="image" src="https://github.com/user-attachments/assets/189929a1-92e3-4696-a7cf-d525428c9bdc" />
+<img width="451" height="792" alt="image" src="https://github.com/user-attachments/assets/abd0532f-ce18-46de-8edb-3d1d7d8f04b2" />
 
 
 A new Flutter project.
